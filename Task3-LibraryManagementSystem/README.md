@@ -36,9 +36,10 @@ A simple console-based Library Management System developed in Java using Object-
 javac *.java
 java Main
 
+---
 
+## Contributing
 
-Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 
 
