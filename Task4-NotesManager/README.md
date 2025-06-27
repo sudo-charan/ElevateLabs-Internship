@@ -31,6 +31,7 @@ java NotesApp
 
 ## 🖥️ Sample Output
 
+```bash
 PS D:\ElevateLabs-Internship\Task4-NotesManager> javac NotesApp.java
 PS D:\ElevateLabs-Internship\Task4-NotesManager> java NotesApp
 Welcome to the Notes Manager
@@ -59,6 +60,7 @@ Your Notes:
 Enter your choice: 3
 Exiting Notes App. Goodbye!
 
+```
 
 ## 🤝 Contributing
 
