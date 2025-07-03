@@ -81,7 +81,7 @@ Employee added successfully.
 
 ## **📸 Screenshots**
 ```bash
-   /images/Screenshot 2025-07-03 221015.png
+   ./images/Screenshot 2025-07-03 221015.png
 ```
 
 ---
