@@ -81,7 +81,7 @@ Employee added successfully.
 
 ## **📸 Screenshots**
 ```bash
-![Alt Text](/images/Screenshot%202025-07-03%20221015.png)
+![Console Output](./images/Screenshot%202025-07-03%20221015.png)
 ```
 
 ---
