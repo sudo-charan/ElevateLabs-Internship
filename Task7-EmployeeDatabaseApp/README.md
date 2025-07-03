@@ -80,9 +80,6 @@ Employee added successfully.
 ---
 
 ## **📸 Screenshots**
-```bash
-![Console Output](./images/Screenshot-2025-07-03-221015.png)
-```
 
----
+![Screenshot](images/Screenshot-2025-07-03-221015.png)
 
