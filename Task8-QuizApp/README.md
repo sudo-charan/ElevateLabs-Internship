@@ -11,7 +11,7 @@ A simple **console-based quiz application** developed in Java. This mini project
 - Uses a **List** to store questions dynamically
 - Accepts user answers through the console
 - Scores the user and shows the final result
-- Demonstrates clean OOP design with a \`Question\` class
+- Demonstrates clean OOP design with a `Question` class
 
 ---
 
@@ -25,11 +25,11 @@ A simple **console-based quiz application** developed in Java. This mini project
 
 ## Project Structure
 
-\`\`\`
+```
 Task8-QuizApp/
 ├── QuizApp.java       # Main application code
 ├── README.md          # Project documentation
-\`\`\`
+```
 
 ---
 
@@ -38,20 +38,20 @@ Task8-QuizApp/
 1. **Open terminal in project folder**
 
 2. **Compile the program**
-   \`\`\`bash
+   ```bash
    javac QuizApp.java
-   \`\`\`
+   ```
 
 3. **Run the program**
-   \`\`\`bash
+   ```bash
    java QuizApp
-   \`\`\`
+   ```
 
 ---
 
 ## Sample Output
 
-\`\`\`bash
+```bash
 === Welcome to the Quiz App ===
 
 What is the capital of France?
@@ -80,14 +80,14 @@ Correct!
 
 === Quiz Finished! ===
 Your Score: 2/3
-\`\`\`
+```
 
 ---
 
 ## How it Works
 
-- **\`Question\` class**: Represents a single quiz question, its options, and the correct answer.
-- **\`List<Question>\`**: Stores all the quiz questions dynamically.
+- **`Question` class**: Represents a single quiz question, its options, and the correct answer.
+- **`List<Question>`**: Stores all the quiz questions dynamically.
 - **Loop & Control Flow**: Iterates through questions, takes user input, checks answers.
 - **Scoring**: Calculates the total score and displays it at the end.
 
@@ -96,8 +96,8 @@ Your Score: 2/3
 ## Outcome
 
 By completing this project, you have:
-- Practiced using **OOP** (\`Question\` class)
-- Worked with **Collections** (\`List\`)
+- Practiced using **OOP** (`Question` class)
+- Worked with **Collections** (`List`)
 - Applied **loops** and **conditionals**
 - Improved your **console I/O skills**
 
